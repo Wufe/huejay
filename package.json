@@ -1,7 +1,7 @@
 {
-  "name": "huejay",
-  "version": "1.9.0",
-  "description": "Philips Hue client for Node.js",
+  "name": "@wufe/huejay",
+  "version": "2.0.0-alpha.1",
+  "description": "Fork of Philips Hue client for Node.js",
   "keywords": [
     "hue",
     "philips",
@@ -10,11 +10,13 @@
     "api",
     "iot"
   ],
+  "types": "index.d.ts",
   "maintainers": [
-    "Michael Squires <sqmk@php.net>"
+    "Michael Squires <sqmk@php.net>",
+    "Simone Bembi <simone.bembi@gmail.com>"
   ],
   "license": "MIT",
-  "repository": "sqmk/huejay",
+  "repository": "wufe/huejay",
   "main": "lib/Huejay.js",
   "files": [
     "lib"
