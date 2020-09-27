@@ -1,6 +1,6 @@
 {
   "name": "@wufe/huejay",
-  "version": "2.0.0-alpha.1",
+  "version": "2.0.0-alpha.2",
   "description": "Fork of sqmk/Huejay - Philips Hue client for Node.js / Browser",
   "keywords": [
     "hue",
