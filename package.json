@@ -19,7 +19,8 @@
   "repository": "wufe/huejay",
   "main": "lib/Huejay.js",
   "files": [
-    "lib"
+    "lib",
+    "index.d.ts"
   ],
   "scripts": {
     "test": "mocha"
